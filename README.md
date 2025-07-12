@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alexandra</h1>
 <h3 align="center">A passionate computer engineering student from Iasi, Romania</h3>
 
-- 🌱 I’m currently learning **about services and distributed systems**
-- 🔭 I'm mostly interested to develop my knowledge in **computer graphics, XR, services and distributed systesm**
+- 🌱 I’m currently learning **about DevOps and AI**
+- 🔭 I'm mostly interested to develop my knowledge in **microservices, distributed systems and DevOps**
 <p align="left">
 </p>
 
